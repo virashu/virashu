@@ -6,7 +6,7 @@ I'm Vlad (he/him), i really like programming and libre software!
 
 ---
 
-## Lenguages, i like
+## Languages, i like
 ![My Skills](https://skillicons.dev/icons?i=python,cs,html,js,bash,aruino)
 
 ---
