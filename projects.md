@@ -19,21 +19,21 @@ flowchart
 	v_game["pygametest"]
 	danmaku["Danmaku"]
 
-  click media_control "https://github.com/virashu/media_control"
-  click audio_vis "https://github.com/virashu/PySerialAudioVisualizer"
-  click saaba "https://github.com/virashu/saaba"
-  click pydeck "https://github.com/virashu/pydeck"
-  click v_game "https://github.com/virashu/pygametest"
-  click danmaku "https://github.com/virashu/Danmaku"
+  click media_control href "https://github.com/virashu/media_control"
+  click audio_vis href "https://github.com/virashu/PySerialAudioVisualizer"
+  click saaba href "https://github.com/virashu/saaba"
+  click pydeck href "https://github.com/virashu/pydeck"
+  click v_game href "https://github.com/virashu/pygametest"
+  click danmaku href "https://github.com/virashu/Danmaku"
 
-	base --> player_api
 	base --> media_control
+	base --> player_api
   base --> saaba
   base --> audio_vis
   base --> pydeck
 
-	base --> danmaku
 	base --> v_game
+	base --> danmaku
 
   v_game -.- danmaku
 	player_api -.- media_control
