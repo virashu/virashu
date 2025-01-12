@@ -7,7 +7,7 @@
   I'm Vlad, i really like programming and libre software!
 
 ## Languages, i like
-![My Skills](https://skillicons.dev/icons?i=python,cs,html,js,bash,arduino,rust)
+![My Skills](https://skillicons.dev/icons?i=rust,python,bash,c,cs)
 
 ## My loved environments
 ![My Environments](https://skillicons.dev/icons?i=vscode,neovim)  
