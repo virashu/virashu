@@ -7,10 +7,10 @@
   I'm Vlad, i really like programming and libre software!
 
 ## Languages, i like
-![My Skills](https://skillicons.dev/icons?i=python,cs,html,js,bash,aruino)
+![My Skills](https://skillicons.dev/icons?i=python,cs,html,js,bash,aruino,rust)
 
 ## My loved environments
-![My Environments](https://skillicons.dev/icons?i=vscode,visualstudio,neovim)  
+![My Environments](https://skillicons.dev/icons?i=vscode,neovim)  
 ![My Environments](https://skillicons.dev/icons?i=linux,docker)
 
 ## Things i hate
