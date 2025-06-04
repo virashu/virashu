@@ -15,11 +15,3 @@
 
 ## Things i hate
 ![Eww](https://skillicons.dev/icons?i=cpp,cpp,cpp,cpp)
-
-## My projects
-
-[here](./projects.md)
-
----
-
-[![email](https://img.shields.io/badge/contact%20me%20on-virashu@disroot.org-blue)](mailto:virashu@disroot.org)
