@@ -11,7 +11,4 @@
 
 ## My loved environments
 ![My Environments](https://skillicons.dev/icons?i=vscode,neovim)  
-![My Environments](https://skillicons.dev/icons?i=linux,docker)
-
-## Things i hate
-![Eww](https://skillicons.dev/icons?i=cpp,cpp,cpp,cpp)
+![My Environments](https://skillicons.dev/icons?i=linux)
