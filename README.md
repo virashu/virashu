@@ -2,13 +2,18 @@
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=virashu" alt="Stats">
+</p>
 
 <p align="center">
-  I'm Vlad, i really like programming and libre software!
+  Backend/system developer. Libre software fan
+</p>
 
-## Languages, i like
-![My Skills](https://skillicons.dev/icons?i=rust,python,bash,c,cs)
+## Languages
+![Languages](https://skillicons.dev/icons?i=rust,python,bash,c,cs)
 
-## My loved environments
-![My Environments](https://skillicons.dev/icons?i=vscode,neovim)  
-![My Environments](https://skillicons.dev/icons?i=linux)
+## Additional
+![Additional](https://skillicons.dev/icons?i=aruino,gitlab)
+
+## Environments
+![Environments_1](https://skillicons.dev/icons?i=vscode,neovim)  
+![Environments_2](https://skillicons.dev/icons?i=linux)
