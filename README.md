@@ -12,7 +12,7 @@
 ![Languages](https://skillicons.dev/icons?i=rust,python,bash,c,cs)
 
 ## Additional
-![Additional](https://skillicons.dev/icons?i=aruino,gitlab)
+![Additional](https://skillicons.dev/icons?i=arduino,gitlab)
 
 ## Environments
 ![Environments_1](https://skillicons.dev/icons?i=vscode,neovim)  
